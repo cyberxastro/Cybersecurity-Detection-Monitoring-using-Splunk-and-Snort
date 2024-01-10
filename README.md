@@ -9,7 +9,8 @@
 
 # Cybersecurity Detection & Monitoring using Splunk and Snort
 
-![1_5v_z55yQv5qGlQBVrdlFuA (1)](https://github.com/astroxhacker/Cybersecurity-Detection-Monitoring-using-Splunk-and-Snort/assets/109857735/e5c58259-91d5-487a-be56-efac3b08e167)
+![snort+splunk](https://github.com/astroxhacker/Cybersecurity-Detection-Monitoring-using-Splunk-and-Snort/assets/109857735/a7f589cb-1f76-4389-9d91-72d3b0ae09f8)
+
 
 This project focuses on enhancing cybersecurity measures through effective detection and monitoring using two powerful tools, Splunk and Snort. Splunk, a robust data analytics and visualization platform, is utilized for log management and analysis, while Snort, an open-source intrusion detection and prevention system, adds a layer of real-time threat detection. The integration of these tools provides a comprehensive solution for identifying and responding to potential security threats within a network.
 
