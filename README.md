@@ -3,7 +3,7 @@
 # Portfolio 
 [![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://gauravsuryawanshi.pages.dev/)
 # Medium Page 
-[![](https://medium.com/@gauravss3703/detection-and-monitoring-using-snort-and-splunk-35ec5924bcfb)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gauravss3703/detection-and-monitoring-using-snort-and-splunk-35ec5924bcfb)
 
 
 
