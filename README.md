@@ -3,7 +3,7 @@
 # Portfolio 
 [![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://gauravsuryawanshi.pages.dev/)
 # Medium Page 
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gauravss3703/security-operation-center-lab-a18eeba5c3c2)
+[![](https://medium.com/@gauravss3703/detection-and-monitoring-using-snort-and-splunk-35ec5924bcfb)
 
 
 
@@ -20,7 +20,7 @@ This project focuses on enhancing cybersecurity measures through effective detec
 2. Snort Implementation: Deploy Snort for real-time intrusion detection and prevention.
 3. Custom Dashboards: Develop intuitive dashborads within Splunk for monitoring and reporting security incidents.
 4. Alerting System: Implement and alerting mechanism to notify administrators of potential threats in real-time.
-5. Documentation: Through documentation to guide users theough the setup, confuguration, and maintenance of the cybersecurity infrastructure [HERE](https://google.com/)
+5. Documentation: Through documentation to guide users theough the setup, confuguration, and maintenance of the cybersecurity infrastructure [HERE](https://medium.com/@gauravss3703/detection-and-monitoring-using-snort-and-splunk-35ec5924bcfb)
 
 
 # If you want the detailed Steps, please visit the Medium Page [HERE](https://google.com)
